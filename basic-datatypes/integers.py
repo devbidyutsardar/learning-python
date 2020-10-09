@@ -1,4 +1,4 @@
-print("examole of integer in python")
+print("example of integer in python")
 
 x = 8
 
